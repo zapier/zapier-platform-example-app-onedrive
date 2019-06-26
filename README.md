@@ -1,3 +1,9 @@
+# MOVED
+
+This code has been moved to: https://github.com/zapier/zapier-platform/tree/master/example-apps/onedrive
+
+---
+
 # Example App - OneDrive
 
 This is an example CLI App for the Zapier Developer Platform. It uses the OneDrive API as the target, showing what a
